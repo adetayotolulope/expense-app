@@ -23,8 +23,9 @@ Builds application that can be copied or hosted in a live server for production
 ## Purpose
 
 ```
-The aim of this application is to create a platform for  an income/expense web app where a user can keep a
-record of the finantial expenditures and also be able to have the posibility to view these expenses graphically
+The aim of this application is to create a platform for  an income/expense web app
+where a user can keep a record of the finantial expenditures and also be able
+to have the posibility to view these expenses graphically
 ```
 
 ## Entities
@@ -69,7 +70,8 @@ This contains the key components such as
 ### Graph
 
 ```
-This mainly contains a component to display the graphical representation of transactions, categories and expenses for a given user
+This mainly contains a component to display the graphical representation of
+transactions, categories and expenses for a given user
 
 ```
 
