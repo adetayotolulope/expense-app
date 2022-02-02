@@ -20,6 +20,12 @@ Builds application that can be copied or hosted in a live server for production
 
 # Application Content || Wiki
 
+## Purpose
+
+```
+The aim of this application is to create a platform for  an income/expense web app where a user can keep a record of the finantial expenditures and also be able to have the posibility to view these expenses graphically
+```
+
 ## Entities
 
 ```
@@ -41,7 +47,7 @@ Transaction {
 
 Transaction holds the category which is a reference to the category entity id; This is used to identify the category of a transaction
 
-## Pages
+# Pages
 
 ### Home
 
@@ -65,3 +71,14 @@ This contains the key components such as
 This mainly contains a component to display the graphical representation of transactions, categories and expenses for a given user
 
 ```
+
+# Technologies
+
+- Javascript
+- Typescript
+- SCSS Modules
+- React
+- Redux
+- localStorage as database
+- uuid
+- react-router & react-router-dom
